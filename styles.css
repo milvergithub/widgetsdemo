@@ -1,0 +1,95 @@
+.header-widget {
+  text-align: center;
+  color: #1B617E;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1vw;
+  margin-bottom: 10px;
+}
+
+.connect-button {
+  padding: 10px;
+  border-radius: 2px;
+  background: #01A0E6;
+  border: 1px solid #01A0E6;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1vw;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none
+}
+
+.connect-button:hover {
+  background: rgb(0, 115, 165);
+}
+
+.tdimage {
+  align-self: center;
+}
+
+
+.connect-button:link {
+  color: white;
+}
+
+/* visited link */
+.connect-button:visited {
+  color: white;
+}
+
+/* mouse over link */
+.connect-button:hover {
+  color: white;
+}
+
+/* selected link */
+.connect-button:active {
+  color: white;
+}
+
+/* Widget Request Appointment (2) */
+.widget_main {
+  font-size: 14px;
+  margin: auto;
+  max-width: 360px;
+  border: 1px solid #D9D9D9;
+  border-radius: 5px;
+  padding: 1px;
+  color: #BFCACE;
+  background: #FFF;
+}
+
+.container-request-appointment-widget {
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: white;
+}
+
+.connect-button:hover {
+  background-color: #007FB5
+}
+
+.widget_container {
+  border-radius: 3px;
+}
+
+.widget_header {
+  padding: 5px 15px;
+}
+
+.widget_body {
+  padding: 5px;
+  margin: 15px;
+  border: 1px solid #D9D9D9;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.widget_footer {
+  padding: 5px 15px;
+  text-align: center;
+}
